@@ -1,0 +1,28 @@
+
+u	java:S127À"XRefactor the code in order to not assign to this loop counter from within the loop body.(ò‹÷Ó8¤¡à€“2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿û¸8ÿ£à€“2
+G
+java:S1197""*Move the array designators [] to the type.(ÂÙ¡×8ƒ¤à€“2
+G
+java:S1181k"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8ˆ¤à€“2
+T
+java:S1172u"7Remove this unused method parameter "ignoreBytesCount".(²å¢Ë8‰¤à€“2
+H
+java:S1181"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8‰¤à€“2
+L
+java:S1197z"*Move the array designators [] to the type.(Ø»“ıÿÿÿÿ8Š¤à€“2
+o
+java:S3457„"Q%n should be used in place of \n to produce the platform-specific line separator.(Ø´ï8‹¤à€“2
+H	java:S106„"+Replace this use of System.out by a logger.(Ø´ï8‹¤à€“2
+o
+java:S3457Š"Q%n should be used in place of \n to produce the platform-specific line separator.(’ºÛØ8Œ¤à€“2
+H	java:S106Š"+Replace this use of System.out by a logger.(’ºÛØ8Œ¤à€“2
+H
+java:S1181•"%Catch Exception instead of Throwable.(•”ø¾øÿÿÿÿ8Œ¤à€“2
+L
+java:S2093x"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8Œ¤à€“2
+o
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(˜é	8¤à€“2
+G
+java:S1197œ"*Move the array designators [] to the type.(˜é	8¤à€“2

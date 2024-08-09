@@ -1,0 +1,9 @@
+
+u
+java:S1104"XMake serverStatus a static final constant or non-public and provide accessors if needed.(ÛÚÆá8 ò­¡“2
+v
+java:S1104"TMake unknown1 a static final constant or non-public and provide accessors if needed.(©ÉÑıÿÿÿÿ8¡ò­¡“2
+q
+java:S1104"TMake unknown2 a static final constant or non-public and provide accessors if needed.(Ëö÷8¡ò­¡“2
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÜÇ¯ì8À‘¿¢“2

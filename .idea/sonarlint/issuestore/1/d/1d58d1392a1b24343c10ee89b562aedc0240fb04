@@ -1,0 +1,7 @@
+
+{
+java:S1104"YMake clientVersion a static final constant or non-public and provide accessors if needed.(íê¸Öøÿÿÿÿ8êÊÂš“2
+|
+java:S1104"ZMake serverMagicKey a static final constant or non-public and provide accessors if needed.(Æ¹À¿ÿÿÿÿÿ8ëÊÂš“2
+v
+java:S1104"TMake reserved a static final constant or non-public and provide accessors if needed.(Šµ™ûÿÿÿÿ8ëÊÂš“2

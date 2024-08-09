@@ -1,0 +1,9 @@
+
+p
+java:S1104"TMake unknown1 a static final constant or non-public and provide accessors if needed.(íÏ’8âÕË“2
+x
+java:S1104"[Make publicKeyLength a static final constant or non-public and provide accessors if needed.(Éô¶×8âÕË“2
+p
+java:S1104"SMake payload a static final constant or non-public and provide accessors if needed.(¢®¹í8²××Ÿ“2
+Q
+java:S1128	"/Remove this unused import 'cabal.types.UInt32'.(ÆúÆúÿÿÿÿ8·ŸÿŸ“2

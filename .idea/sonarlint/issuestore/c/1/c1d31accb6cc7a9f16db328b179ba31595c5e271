@@ -1,0 +1,50 @@
+
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÌªÍ‹8ŸğØ“2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¥¤ÖÚ8 ğØ“2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ó×Ÿıÿÿÿÿ8 ğØ“2
+s
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(•Õ§Êûÿÿÿÿ8¡ğØ“2
+L	java:S106"+Replace this use of System.out by a logger.(•Õ§Êûÿÿÿÿ8¡ğØ“2
+G
+java:S1197"*Move the array designators [] to the type.(å½²‡8¢ğØ“2
+G
+java:S1197"*Move the array designators [] to the type.(å½²‡8¢ğØ“2
+G
+java:S1197$"*Move the array designators [] to the type.(Ğ­â’8Š„¨“2
+G
+java:S1197("*Move the array designators [] to the type.(Å«ú×8‹„¨“2
+I
+java:S1905,"'Remove this unnecessary cast to "long".(¹Îøşÿÿÿÿ8‹„¨“2
+:
+java:S2153}"Remove the boxing of "value".(ûû‹ğ8„¨“2
+:
+java:S2153‡"Remove the boxing of "value".(¦ªÕ8„¨“2
+;
+java:S2153Œ"Remove the boxing of "value".(Ä†ñ­8„¨“2
+H
+java:S1197Ÿ"*Move the array designators [] to the type.(ÈŠÕú8‘„¨“2
+\
+java:S2130¥"9Use "Integer.parseInt" for this string-to-int conversion.(¡ÿıÒıÿÿÿÿ8’„¨“2
+H
+java:S1197±"*Move the array designators [] to the type.(û³ß–8’„¨“2
+D
+java:S1905µ"&Remove this unnecessary cast to "int".(œÆÏ8¯ğØ“2
+D
+java:S1905¶"&Remove this unnecessary cast to "int".(Ú ‘ù8¯ğØ“2
+I
+java:S1905·"&Remove this unnecessary cast to "int".(ôï²¬ûÿÿÿÿ8¯ğØ“2
+I
+java:S1905¸"&Remove this unnecessary cast to "int".(¿şÇöùÿÿÿÿ8°ğØ“2
+H
+java:S1197½"*Move the array designators [] to the type.( ì¶„8”„¨“2
+D
+java:S1905Á"&Remove this unnecessary cast to "int".(œÆÏ8°ğØ“2
+D
+java:S1905Â"&Remove this unnecessary cast to "int".(Ú ‘ù8°ğØ“2
+I
+java:S1905Ã"&Remove this unnecessary cast to "int".(ôï²¬ûÿÿÿÿ8”„¨“2
+I
+java:S1905Ä"&Remove this unnecessary cast to "int".(¿şÇöùÿÿÿÿ8”„¨“2

@@ -1,0 +1,16 @@
+
+	java:S116"`Rename this field "EXPECT_CLIENT_VERSION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(– ÷„ùÿÿÿÿ8 €õš“2
+C
+java:S1170"!Make this final field static too.(– ÷„ùÿÿÿÿ8…œğš“2
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(°ƒØ8‰œğš“2
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ú”®§üÿÿÿÿ8‰œğš“2
+L	java:S106)"+Replace this use of System.out by a logger.(ØıËıÿÿÿÿ8Œœğš“2
+G	java:S1067"+Replace this use of System.out by a logger.(…´À8Œœğš“2
+G	java:S106L"+Replace this use of System.out by a logger.(ŞÕîŠ8œğš“2
+a
+java:S1128"?Remove this unused import 'cabal.packet.builder.PacketBuilder'.(Úßİıÿÿÿÿ8ÚÈõš“2
+Q
+java:S1128
+"/Remove this unused import 'cabal.types.UInt16'.(Î›ÙŸøÿÿÿÿ8ÚÈõš“2
